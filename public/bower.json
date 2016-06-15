@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "description": "bomberman",
+  "main": "y",
+  "authors": [
+    "Rob Wilkinson <wilkinson.robert.a@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/RobAWilkinson/phaser_game",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "^2.4.8",
+    "phaser-craft": "^1.1.1"
+  }
+}
