@@ -1,4 +1,4 @@
-var sitePath = process.argv[2] || ".";
+var sitePath = "public"
 var port = 4242;
  
 // Libraries
